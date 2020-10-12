@@ -5,7 +5,7 @@
 <link href="https://www.w3schools.com/w3css/4/w3.css" rel="stylesheet" >
 </head>
 <body>
-<h3 class="w3-block w3-teal w3-center">Yunwei's Todo List,  Oct 2020</h3>
+<h3 class="w3-block w3-teal w3-center">Yunwei's Todo List(git version),  Oct 2020</h3>
 <table class="w3-table w3-bordered w3-border">
 %for row in rows:
     <tr>
